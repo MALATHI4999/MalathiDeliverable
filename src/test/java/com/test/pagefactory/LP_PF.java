@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import com.scuba.deliverablehelper.BrowserFactory;
 import com.test.page.LoginPage;
 
-public class LoginPage_PF {
+public class LP_PF {
 	@Test
 	public void TestValidLogin() throws InterruptedException
 	{

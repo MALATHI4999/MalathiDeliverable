@@ -12,7 +12,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class NormalPage {
+public class SamplePage {
 
 
     WebDriver driver;
